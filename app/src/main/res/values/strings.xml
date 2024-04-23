@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DesignWeather</string>
+    <string name="mapbox_access_token">sk.eyJ1IjoidGhhb250LTAxMDYiLCJhIjoiY2x2YmMydXN2MDcxNjJpbXV3YmhoczBteCJ9.bQ278D12TBombT85CjYclA</string>
+</resources>
